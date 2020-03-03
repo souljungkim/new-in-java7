@@ -21,7 +21,7 @@
 
 -------------------------
 ### Reference 
-https://www.eclipse.org/jdt/ui/r3_8/Java7news/whats-new-java-7.html
-https://howtodoinjava.com/java7/java-7-changes-features-and-enhancements/
-https://www.oracle.com/technetwork/java/javase/jdk7-relnotes-418459.html
-https://dzone.com/articles/new-java-7-language-features
+- https://www.eclipse.org/jdt/ui/r3_8/Java7news/whats-new-java-7.html
+- https://howtodoinjava.com/java7/java-7-changes-features-and-enhancements/
+- https://www.oracle.com/technetwork/java/javase/jdk7-relnotes-418459.html
+- https://dzone.com/articles/new-java-7-language-features
